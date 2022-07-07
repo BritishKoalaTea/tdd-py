@@ -2,16 +2,16 @@ import requests
 
 
 def get_latest_response():
-    return ''
+    return ""
 
 
 def get_status_code():
-    return ''
+    return ""
 
 
 def get_latest_json():
-    return ''
+    return ""
 
 
 def get_specific_sol(this_sol):
-    return ''
+    return ""
