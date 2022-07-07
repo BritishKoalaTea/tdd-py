@@ -1,7 +1,8 @@
 # tdd-py
 Test-driven Python
 
-Make sure you have [Python3 installed](https://docs.python-guide.org/starting/install3/osx/), and download PyCharm from JetBrains.
+Make sure you have [Python3 installed](https://docs.python-guide.org/starting/install3/osx/), 
+and download [PyCharm](https://www.jetbrains.com/pycharm/) from JetBrains.
 
 Open the project in PyCharm.
 
