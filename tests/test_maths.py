@@ -10,8 +10,8 @@ class TestMaths(unittest.TestCase):
         self.assertEqual(15, result)
 
     def test_multiply_2_numbers(self):
-        result = my_multiply(2, 4)
-        self.assertEqual(8, result)
+        result = my_multiply(20, 4)
+        self.assertEqual(80, result)
 
     def test_square(self):
         result = my_square(3)
